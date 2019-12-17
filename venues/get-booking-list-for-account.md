@@ -74,7 +74,12 @@ The number of bookings to get in a single call
       "bookedById": 123,
       "isBeoFinalised": true,
       "beoFinalisedDate": "2015-02-09 03:37:39 UTC",
-      "otaFolioRef": "ven1234"
+      "otaFolioRef": "ven1234",
+      "accommCutOffDate": "2019-01-08",
+      "accommCancellationDate": "2019-01-08",
+      "accommChargingMethod": null,
+      "accommGuaranteeRequired": null,
+      "accommExternalBlockId": null
     }
   ]
 }
