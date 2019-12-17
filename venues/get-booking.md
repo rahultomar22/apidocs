@@ -692,7 +692,12 @@ The id of the booking
     }],
     "bookingType": 1,
     "opportunityId": 2,
-  ]
+  ],
+  "accommCutOffDate": "2019-01-08",
+  "accommCancellationDate": "2019-01-08",
+  "accommChargingMethod": null,
+  "accommGuaranteeRequired": null,
+  "accommExternalBlockId": null
 }
 ```
 {% endapi-method-response-example %}
